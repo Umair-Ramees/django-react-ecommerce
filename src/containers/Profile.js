@@ -7,7 +7,7 @@ import {
   Dimmer,
   Divider, 
   Form,
-  Grid,
+  Grid, 
   Header,
   Image,
   Label,
