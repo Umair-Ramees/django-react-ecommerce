@@ -5,7 +5,7 @@ import {
   Button,
   Card,
   Dimmer,
-  Divider,
+  Divider, 
   Form,
   Grid,
   Header,
